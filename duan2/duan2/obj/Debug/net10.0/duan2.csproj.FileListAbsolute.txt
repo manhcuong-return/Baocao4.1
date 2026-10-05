@@ -1,0 +1,15 @@
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.AssemblyInfoInputs.cache
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.AssemblyInfo.cs
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.csproj.CoreCompileInputs.cache
+D:\C#\EX3_THAYNAM\duan2\duan2\bin\Debug\net10.0\duan2.exe
+D:\C#\EX3_THAYNAM\duan2\duan2\bin\Debug\net10.0\duan2.deps.json
+D:\C#\EX3_THAYNAM\duan2\duan2\bin\Debug\net10.0\duan2.runtimeconfig.json
+D:\C#\EX3_THAYNAM\duan2\duan2\bin\Debug\net10.0\duan2.dll
+D:\C#\EX3_THAYNAM\duan2\duan2\bin\Debug\net10.0\duan2.pdb
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.dll
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\refint\duan2.dll
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.pdb
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.genruntimeconfig.cache
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\ref\duan2.dll
+D:\C#\EX3_THAYNAM\duan2\duan2\obj\Debug\net10.0\duan2.csproj.Up2Date
